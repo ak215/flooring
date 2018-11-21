@@ -1,0 +1,83 @@
+[2018-11-19 06:46:31] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-11-20 00:05:31] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-11-20 00:25:06] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-11-20 00:27:15] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 320) Could not retrieve data to cache for resource 5
+[2018-11-20 01:00:46] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/category
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:47:36] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:47:36] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:48:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-20 23:48:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-20 23:57:54] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/element
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -help 2&gt;&amp;1'
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert logo: -resize 1x '/tmp/pThumb3PzjZw' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -background '#FFFFFF' -resize 'x798' -gravity center -crop '1250x750+0+0' '/home/e/egocosm/laflooring/public_html/assets/gallery/1/9.jpg[0]' jpeg:'/tmp/pThumb3PzjZw' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -help 2&gt;&amp;1'
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert logo: -resize 1x '/tmp/pThumbqLoEex' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-20 23:58:47] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -background '#FFFFFF' -resize 'x554' -gravity center -crop '1250x750+0+0' '/home/e/egocosm/laflooring/public_html/assets/gallery/1/12.jpg[0]' jpeg:'/tmp/pThumbqLoEex' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-21 00:07:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 00:08:13] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 00:09:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 394) Error caching action map mgr/actions
+[2018-11-21 00:09:33] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/element
+[2018-11-21 00:09:35] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 00:14:55] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 00:16:43] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-11-21 00:16:46] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -help 2&gt;&amp;1'
+[2018-11-21 00:16:46] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert logo: -resize 1x '/tmp/pThumblOznuJ' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-21 00:16:46] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -background '#FFFFFF' -resize 'x831' -gravity center -crop '1920x768+0+0' '/home/e/egocosm/laflooring/public_html/assets/gallery/1/12.jpg[0]' jpeg:'/tmp/pThumblOznuJ' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-21 00:31:52] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-21 00:31:52] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-21 00:31:53] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-21 00:31:53] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-21 00:31:53] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 1
+[2018-11-21 00:31:53] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/1/
+[2018-11-21 00:32:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -help 2&gt;&amp;1'
+[2018-11-21 00:32:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert logo: -resize 1x '/tmp/pThumbtvOWIt' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-21 00:32:34] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/phpthumb/phpthumb.functions.php : 481) PHP warning: shell_exec(): Unable to execute 'convert -background '#FFFFFF' -resize 'x991' -gravity center -crop '1250x500+0+0' '/home/e/egocosm/laflooring/public_html/assets/gallery/1/17.jpg[0]' jpeg:'/tmp/pThumbtvOWIt' 2&gt;&amp;1 2&gt;&amp;1'
+[2018-11-21 01:07:41] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:41] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:41] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:07:42] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:10:50] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
+[2018-11-21 01:12:08] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 01:15:03] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:15:03] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:15:04] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/processors/mgr/item/ajaxupload.php : 75) [Gallery] Album Type: 2
+[2018-11-21 01:15:04] (ERROR @ /home/e/egocosm/laflooring/public_html/core/components/gallery/model/gallery/galalbum.class.php : 206) [Gallery] Could not create directory (possibly already exists?): assets/gallery/2/
+[2018-11-21 01:20:51] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/category
+[2018-11-21 03:42:04] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/category
+[2018-11-21 03:56:20] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 03:56:20] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 03:56:20] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
+[2018-11-21 03:56:20] (ERROR @ /home/e/egocosm/laflooring/public_html/core/model/modx/modcachemanager.class.php : 317) Could not cache resource 1
